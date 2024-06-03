@@ -4,6 +4,14 @@
 ## Dear ImGui artifacts
 imgui.ini
 
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
+Makefile
+
 ## General build artifacts
 *.o
 *.obj
